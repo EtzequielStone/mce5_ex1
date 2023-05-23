@@ -53,11 +53,16 @@ En el estudio realizado por <a href="https://doi.org/10.1111/jvs.13185">Sanches 
 
 **Respuesta:**
 
->HOLA HOLA DICE BOLA
+>Ha: la facilitación interespecífica puede ayudar a reducir las disparidades de rendimiento entre los adultos de diferentes especies "raras" ayudandolas a mantenerse con el tiempo.
+
+>Ho: la facilitación interespecifica puede aumentar las disparidades de rendimiento entre los adultos de diferentes especies "raras" promoviendo su extinción.
+
+Explicacion: la facilitacion interespecífica se refiere a las relaciones positivas entre especies, por lo tanto de estas interacciones va a depender si una especie rara se mantiene en el tiempo, o si dicha facilitacion interespecífica afectará al mantenimiento de la especie en el ecosistema.
 
 ## Muestra
 
-Replique el diseño realizado en el artículo en localidades del Ecuador y genere el archivo **rarespecies.csv**. 
+Replique el diseño realizado en el artículo en localidades del Ecuador y genere el archivo
+**rarespecies.csv**. 
 
 ```{r crd_anfibios}
 sitios = c("Sitio1", "Chuquitos", "Chompi")
