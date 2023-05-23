@@ -19,7 +19,8 @@ output:
 
 Bienvenidos al examen parcial de Métodos Cuantitativos en Ecología [MCE5 - 2023I]. Para esta evaluación utilice este cuaderno de R Markdown y tenga en cuenta las siguientes instruciones:
 
-* **FUNDAMENTAL: La entrega es el enlace de GitHub.** A partir de una bifurcación de la carpeta del examen de GitHub, cree una carpeta en su computador donde guarden este cuaderno .Rmd y la data que van a utilizar. Definan a esa carpeta como su directorio de trabajo. 
+* **FUNDAMENTAL: La entrega es el enlace de GitHub.** 
+A partir de una bifurcación de la carpeta del examen de GitHub, cree una carpeta en su computador donde guarden este cuaderno .Rmd y la data que van a utilizar. Definan a esa carpeta como su directorio de trabajo. 
 
 * Arriba, donde dice "author", deben cambiar por sus datos.
 
@@ -52,6 +53,7 @@ En el estudio realizado por <a href="https://doi.org/10.1111/jvs.13185">Sanches 
 
 **Respuesta:**
 
+>HOLA HOLA DICE BOLA
 
 ## Muestra
 
