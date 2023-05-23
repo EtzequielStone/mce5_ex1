@@ -65,7 +65,7 @@ Replique el diseño realizado en el artículo en localidades del Ecuador y gener
 **rarespecies.csv**. 
 
 
-```{r crd_anfibios}
+```{r sitios}
 sitios = c("Malacatos", "Celica", "Chapiza")
 
 ```
@@ -97,12 +97,16 @@ En esta parte debe aplicar las regresiones lineal, linearizada y generalizada so
 
 - ¿Cuál es el efecto de las variables ambientales en la i) abundancia de ii) abundancia y iii) proporción de la especie *Galumma sp.*?
 
+Las variables ambientales (independientes) como la densidad del sustrato, el tipo de sustrato, el contenido de agua, la presencia de arbustos grandes o pequeños, asi como la topografia, dependiendo de la proporción, tendrá un efecto sobre la abundacia del ácaro (dependiente), debido a que todas éstas variables influyen en la abundancia o limitan la presencia de dicha especie "Galumma sp".
 
 
 Para responder esta pregunta debe generar las hipótesis y probar las hipótesis (código y explicación), asimismo visualizar con etiquetas adecuadas. Considere realizar lo siguiente:
 
 - Realizar un análisis exploratorio.
-
+```{r data}
+data(mites)
+str(mites)
+```
 - Realizar regresiones lineales de cada variable de respuesta y variables efectoras, univariable o multivariable. Verifique los supuestos de la regresión. 
 
 - Realizar regresiones linearizadas de cada variable de respuesta y variables efectoras, univariable o multivariable. 
